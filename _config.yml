@@ -1,1 +1,41 @@
 theme: minima
+
+title: My Website 
+
+description: Data Science Job Hunt 
+
+navbar-links:
+  About Me: "My name is Bram" 
+  Resources: 
+    - Home One: "https://www.zillow.com/homedetails/2157-Wisteria-Way-NE-Atlanta-GA-30317/14470247_zpid/"
+    - Home Two: "https://farrellbuilding.com/"
+  Authors Home: "https://www.linkedin.com/in/abraham-tunggala-37b99324/"
+  
+  avatar: ""
+  
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
+page-col: "#FFFFFF"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+
+
+author:
+  name: Some Person
+  
+social-network-links:
+  rss: true
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
+
+
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
