@@ -12,3 +12,11 @@ It is also good practice to understand the problem statement and dataset prior t
 - sample_submission.csv - a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
 
 The dataset can be found [here](https://www.kaggle.com/ekami66/detailed-data-exploration-in-python/data)
+
+# Highlights 
+- Numerical Data Distribution 
+- Feature correlation 
+- Feature to feature relationship
+- Quantitative to qualitative relationship
+- Categorical to Quantitative relationship
+- Faster EDA with Pandas-Profiling 
